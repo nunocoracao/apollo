@@ -61,7 +61,7 @@ apollo/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/apollo.git
+git clone https://github.com/nunocoracao/apollo.git
 cd apollo
 ```
 
